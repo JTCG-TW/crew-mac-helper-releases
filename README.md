@@ -1,9 +1,13 @@
 # Crew Mac Assistant
 
-Official downloads for Crew Mac Assistant are available on the [Releases page](https://github.com/JTCG-TW/crew-mac-helper-releases/releases).
+[Download Crew Mac Assistant 0.3.0](https://github.com/JTCG-TW/crew-mac-helper-releases/releases/download/v0.3.0/crew-mac-assistant-0.3.0-arm64-macos13.dmg)
 
-Requires a Mac with Apple silicon and macOS 13.5 or later.
+Requires a Mac with Apple silicon and macOS 13.5 or later. Open the DMG and drag the app to Applications.
 
-Crew Mac 助手的下載檔案放在 [Releases 頁面](https://github.com/JTCG-TW/crew-mac-helper-releases/releases)。需要 Apple 晶片的 Mac 和 macOS 13.5 以上版本。
+[下載 Crew Mac 助手 0.3.0](https://github.com/JTCG-TW/crew-mac-helper-releases/releases/download/v0.3.0/crew-mac-assistant-0.3.0-arm64-macos13.dmg)
 
-Crew Mac アシスタントは [Releases ページ](https://github.com/JTCG-TW/crew-mac-helper-releases/releases)からダウンロードできます。Apple シリコン搭載の Mac と macOS 13.5 以降が必要です。
+需要 Apple 晶片的 Mac 和 macOS 13.5 以上版本。打開 DMG 後，將 app 拖到「應用程式」。
+
+[Crew Mac アシスタント 0.3.0 をダウンロード](https://github.com/JTCG-TW/crew-mac-helper-releases/releases/download/v0.3.0/crew-mac-assistant-0.3.0-arm64-macos13.dmg)
+
+Apple シリコン搭載の Mac と macOS 13.5 以降が必要です。DMG を開き、アプリをアプリケーションフォルダにドラッグしてください。
